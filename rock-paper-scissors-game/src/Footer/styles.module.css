@@ -26,3 +26,9 @@
   color: white;
   border: 3px solid white;
 }
+.link{
+  color:#ddd;
+}
+.link:hover{
+  color:#fff;
+}

@@ -3,3 +3,10 @@
     align-items: center;
     flex-direction: column;
 }
+body{
+    font-family: Barlow Semi Condensed,sans-serif;
+    color: #fff;
+    background: radial-gradient(circle,#1f3756,#141539);
+    text-align: center;
+    box-sizing: border-box;
+}

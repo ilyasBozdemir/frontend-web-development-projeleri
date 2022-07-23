@@ -9,7 +9,9 @@ const Footer = () => {
       <div className={styles.container}>
         <div className={styles.copyright}>
           <span>Coded by </span>
-          <a href="https://github.com/ilyasBozdemir" target="_blank">
+          <a className={styles.link}
+          href="https://github.com/ilyasBozdemir/frontend-web-development-projeleri/tree/main/rock-paper-scissors-game" 
+          target="_blank">
             İlyas Bozdemir
             </a>
         </div>
