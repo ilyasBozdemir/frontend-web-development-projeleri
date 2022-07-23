@@ -1,0 +1,77 @@
+[
+      {
+            "id": 1,
+            "item_img": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
+            "item_name": "JS"
+      },
+      {
+            "id": 2,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/nodejs.png",
+            "item_name": "Node js"
+      },
+      {
+            "id": 3,
+            "item_img": "https://avatars.githubusercontent.com/u/5429470?s=100",
+            "item_name": "Docker"
+      },
+      {
+            "id": 4,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/angular2.png",
+            "item_name": "Angular"
+      },
+      {
+            "id": 5,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/vue.png",
+            "item_name": "Vue"
+      },
+      {
+            "id": 6,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/react.png",
+            "item_name": "React"
+      },
+      {
+            "id": 11,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/browserify.png",
+            "item_name": "Browserify"
+      },
+      {
+            "id": 12,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/ember.png",
+            "item_name": "Ember"
+      },
+      {
+            "id": 13,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/meteor.png",
+            "item_name": "Meteor"
+      },
+      {
+            "id": 14,
+            "item_img": "https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/grunt.png",
+            "item_name": "Grunt"
+      },
+      {
+            "id": 16,
+            "item_img": "https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png",
+            "item_name": "Patika"
+      },
+      {
+            "id": 17,
+            "item_img": "https://avatars.githubusercontent.com/u/1529926?s=100",
+            "item_name": "Redis"
+      },
+      {
+            "id": 18,
+            "item_img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+            "item_name": "GitHub"
+      },   
+      {
+            "id": 17,
+            "item_img": "https://avatars.githubusercontent.com/u/9141961?s=100",
+            "item_name": ".NET"
+      },
+      {
+            "id": 19,
+            "item_img": "https://camo.githubusercontent.com/4252422e9636fedef88885c73604ef597e49d9a8a90e850715714caa4cb8aa4d/68747470733a2f2f636f64656f70696e696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4269746d61702d4d454449554d5f4153502e4e45542d436f72652d4c6f676f5f32636f6c6f72735f5371756172655f5247422e706e67",
+            "item_name": ".Net Core"
+      }
+]
