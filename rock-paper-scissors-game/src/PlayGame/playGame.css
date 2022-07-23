@@ -1,0 +1,28 @@
+.selectedPaper {
+  background-color: #fff;
+  background-image: url(https://react-js-rock-paper-scissors-game.vercel.app/icon-paper.71b1d690.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  border-color: #4865f4;
+  box-shadow: inset 0 5px 6px grey, 0 8px #0d31e3;
+}
+.selectedRock {
+  background-color: #fff;
+  background-image: url(https://react-js-rock-paper-scissors-game.vercel.app/icon-rock.974e564c.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  border-color: #dc2e4e;
+  box-shadow: inset 0 5px 6px grey, 0 8px #a11b34;
+}
+.selectedScissors {
+  background-color: #fff;
+  background-image: url(https://react-js-rock-paper-scissors-game.vercel.app/icon-scissors.2701a1e0.svg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  border-color: #ec9e0e;
+  box-shadow: inset 0 5px 6px grey, 0 8px #a46e0a;
+}
+.winner {
+  box-shadow: 0 0 0 50px hsl(0deg 0% 100% / 7%),
+    0 0 0 100px hsl(0deg 0% 100% / 5%), 0 0 0 150px hsl(0deg 0% 100% / 3%);
+}

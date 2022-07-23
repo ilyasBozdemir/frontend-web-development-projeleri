@@ -1,0 +1,28 @@
+.footer {
+  width: 60%;
+  margin-top: 250px;
+}
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.container button {
+  width: 80px;
+  height: 40px;
+  background: none;
+  border: 3px solid #606e85;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  color: #606e85;
+  font-size: 20px;
+  cursor: pointer;
+}
+.container button:hover {
+  color: white;
+  border: 3px solid white;
+}
