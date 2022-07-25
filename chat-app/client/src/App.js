@@ -1,22 +1,15 @@
 import React from 'react';
-import axios from 'axios';
-
+import Chat from './components/Chat/Chat';
 import './App.css';
 
+import { BrowserRouter as Router, Route } from "react-router-dom";
+
 function App() {
-  const ENDPOINT='https://ib-chat-app-server.herokuapp.com/';
-  const [text, setText] = React.useState(null);
-
-  React.useEffect(() => {
-    axios.get(ENDPOINT).then((response) => {
-      setText(response.data);
-    });
-  }, []);
-
+  
   return (
-    <>
-      {text}
-    </>
+    <Router>
+    <Route path="/chat" component={Chat} />
+  </Router>
   );
 }
 
