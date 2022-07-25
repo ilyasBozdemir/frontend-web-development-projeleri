@@ -7,7 +7,7 @@ function App() {
   const [text, setText] = React.useState(null);
 
   React.useEffect(() => {
-    axios.get('localhost:3001').then((response) => {
+    axios.get('http://localhost:3100/').then((response) => {
       setText(response.data);
     });
   }, []);
