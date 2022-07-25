@@ -4,10 +4,11 @@ import axios from 'axios';
 import './App.css';
 
 function App() {
+  const ENDPOINT='https://ib-chat-app-server.herokuapp.com/';
   const [text, setText] = React.useState(null);
 
   React.useEffect(() => {
-    axios.get('http://localhost:3100/').then((response) => {
+    axios.get(ENDPOINT).then((response) => {
       setText(response.data);
     });
   }, []);
